@@ -16,6 +16,8 @@ domain dataset for human activity recognition using smartphones,” in
 21th European Symposium on Artificial Neural Networks, Computational
 Intelligence and Machine Learning (ESANN). CIACO, Apr. 2013, pp.
 437–442.
+
+you need to download the data and put it in a folder data
 """
 
 This is the code to collapse any of the 1dconv layers of the 4 1dconv layered network created by HAR-CNN.py
