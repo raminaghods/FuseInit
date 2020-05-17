@@ -15,6 +15,9 @@ P. Warden, “Speech commands: A dataset for limited-vocabulary speech
 recognition,” arXiv preprint: 1804.03209, Apr. 2018.
 
 code requires a GPU node
+
+you need to download the data for however many classes you want to train and run LoadandProcessData.py to
+create the data arrays first
 """
 
 import keras
